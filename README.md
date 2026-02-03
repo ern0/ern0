@@ -2,4 +2,4 @@
 
 No forks, only own repositories.
 
-Check out [https://linkbroker.hu/stuff/cv/portfolio.html](my portfolio)!
+Check out [my portfolio](https://linkbroker.hu/stuff/cv/portfolio.html)!
